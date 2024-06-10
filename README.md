@@ -1,4 +1,4 @@
-###👋 Hi There, I’m Vitor Johnson! 
+👋 Hi There, I’m Vitor Johnson! 
 
 Welcome to my Github Profile!
 
